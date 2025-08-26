@@ -1,6 +1,6 @@
 # SearchingTAB Privacy Policy
 
-**Last Updated: [Current Date]**
+**Last Updated: 08/26/2025**
 
 ## Overview
 SearchingTAB is committed to protecting your privacy. This privacy policy explains how our Chrome extension handles your data.
@@ -44,7 +44,7 @@ SearchingTAB does not collect any information from users of any age.
 If we make changes to this privacy policy, we will update the "Last Updated" date above.
 
 ## Contact Information
-If you have questions about this privacy policy, please contact: [your-email@example.com]
+If you have questions about this privacy policy, please contact: xueqili00 [at] gmail
 
 ---
 
